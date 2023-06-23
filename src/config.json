@@ -7,9 +7,9 @@
     "numberOfSlides": 5
   },
   "googleSheets": {
-    "prayerData": "https://api.mosque.tech/prayer-times/1yVlGjnEhKLi5DSOuJMm7-ec5-iFvuiR7WkbzMdbFP9s",
-    "hadithData": "https://api.mosque.tech/hadith-data/1yVlGjnEhKLi5DSOuJMm7-ec5-iFvuiR7WkbzMdbFP9s",
-    "appConfig": "https://api.mosque.tech/prayer-screen-config/1yVlGjnEhKLi5DSOuJMm7-ec5-iFvuiR7WkbzMdbFP9s",
+    "prayerData": "https://api.mosque.tech/prayer-times/1kwf3IkmFxfVFQ1xvUcHnCIiKtER6D9sOCZ9k19z89I4",
+    "hadithData": "https://api.mosque.tech/hadith-data/1kwf3IkmFxfVFQ1xvUcHnCIiKtER6D9sOCZ9k19z89I4",
+    "appConfig": "https://api.mosque.tech/prayer-screen-config/1kwf3IkmFxfVFQ1xvUcHnCIiKtER6D9sOCZ9k19z89I4",
     "refreshRate": 1
   }
 }
